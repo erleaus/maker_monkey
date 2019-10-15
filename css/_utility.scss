@@ -1,0 +1,17 @@
+.text {
+  &-primary {
+    color: $color-primary;
+  }
+  &-light {
+    color: $color-light;
+  }
+  &-dark {
+    color: $color-dark;
+  }
+  &-supplement {
+    color: $color-supplement;
+  }
+  &-white {
+    color: #fff;
+  }
+}
